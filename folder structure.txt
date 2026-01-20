@@ -1,0 +1,10 @@
+website-root/
+├── index.html          # Home page
+├── services.html       # Services page
+├── about.html          # About Us page
+├── why-choose-us.html  # Why Choose Us page
+├── contact.html        # Contact page
+├── styles.css          # Shared CSS file for styling
+└── assets/             # Optional folder for images, scripts, etc. (add if needed)
+    ├── images/         # Place images here (e.g., hero.jpg, logo.png)
+    └── js/             # Place JavaScript files here (e.g., for real CTAs)
